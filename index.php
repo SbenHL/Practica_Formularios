@@ -22,7 +22,7 @@
             <ul>
                 <li><a href="Registrar.php">Registrar Usuarios</a></li>
                 <br>
-                <li><a href="Mostrar_datos.php">Mostrar tabla Usuarios</a></li>
+                <li><a href="login.php">Iniciar Sesion</a></li>
                 <br>
             </ul>
         </div>

@@ -20,7 +20,7 @@
     </header>
     <a href="registrar.php">Registrar</a>
     <br>
-    <a href="index.php">Pagina Principal</a>
+    <!-- <a href="index.php">Pagina Principal</a> -->
     <br>
     <br>
     <table>
@@ -51,6 +51,11 @@
             ?>
         <tbody>
     </table>
+    <footer>
+        <br>
+        <li><a href="cerrarsesion.php">Cerrar Sesion</a></li>
+        <br>
+    </footer>
 </body>
 
 </html>
